@@ -1,0 +1,1 @@
+ -L"E:/BCT/5th SEM/CGraphics/project/Ball/lib"  -L"E:/BCT/5th SEM/CGraphics/project/Ball/lib/GL" -lmingw32 -lSDL2main -lSDL2 -lglew32s -lOpenGL32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

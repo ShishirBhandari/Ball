@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ball"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ball">
+				<Option output="E:/BCT/5th SEM/CGraphics/project/Ball/bin/Ball.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/BCT/5th SEM/CGraphics/project/Ball/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/BCT/5th SEM/CGraphics/project/Ball/include"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include/c++/backward"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ball"/>
+					<CompileFile command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ball/fast">
+				<Option output="E:/BCT/5th SEM/CGraphics/project/Ball/bin/Ball.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/BCT/5th SEM/CGraphics/project/Ball/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/BCT/5th SEM/CGraphics/project/Ball/include"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include/c++/backward"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="D:/graphics libraries/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ball/fast"/>
+					<CompileFile command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/graphics libraries/mingw64/bin/mingw32-make.exe -f &quot;E:/BCT/5th SEM/CGraphics/project/Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/BCT/5th SEM/CGraphics/project/Ball/MainGame.cpp">
+			<Option target="Ball"/>
+		</Unit>
+		<Unit filename="E:/BCT/5th SEM/CGraphics/project/Ball/MainGame.h">
+			<Option target="Ball"/>
+		</Unit>
+		<Unit filename="E:/BCT/5th SEM/CGraphics/project/Ball/main.cpp">
+			<Option target="Ball"/>
+		</Unit>
+		<Unit filename="E:/BCT/5th SEM/CGraphics/project/Ball/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
